@@ -1,0 +1,4 @@
+
+openai==2.48.0
+pydantic==2.13.5
+pytest==8.4.2

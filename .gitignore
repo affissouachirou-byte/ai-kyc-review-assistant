@@ -1,0 +1,39 @@
+@'
+# Python environments
+.venv/
+.venv311/
+venv/
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated KYC reviews and logs
+outputs/
+logs/
+
+# Local development files
+.vscode/
+.idea/
+'@ | Set-Content -Encoding UTF8 .gitignore
+# Local backups and archives
+backup_readme/
+docs/archive/
+evaluation/*.zip
+
+# Generated AI evaluation outputs
+evaluation/results/
+evaluation/results_v02/
+
+# Local diagnostic scripts
+src/test_connection.py

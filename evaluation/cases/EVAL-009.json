@@ -1,0 +1,32 @@
+{
+  "customer_id": "EVAL-009",
+  "customer_name": "Alpine Global Trading AG",
+  "country": "Switzerland",
+  "customer_type": "Corporate",
+  "risk_rating": "Medium",
+  "declared_activity": "Import and export of industrial equipment within Europe and selected Middle East markets.",
+  "expected_transaction_volume": {
+    "monthly_volume_chf": 500000,
+    "expected_countries": [
+      "Switzerland",
+      "Germany",
+      "France",
+      "United Arab Emirates"
+    ]
+  },
+  "actual_transaction_summary": {
+    "monthly_volume_chf": 1500000,
+    "observed_countries": [
+      "France",
+      "Turkey"
+    ],
+    "notable_change": "Synthetic evaluation scenario; assess against expected activity."
+  },
+  "ubo_information": {
+    "ubo_name": "Karim Haddad",
+    "ubo_country": "Lebanon",
+    "ownership_percentage": 75
+  },
+  "adverse_media_summary": "No confirmed adverse media identified in the synthetic case.",
+  "missing_information": []
+}

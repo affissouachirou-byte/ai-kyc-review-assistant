@@ -1,0 +1,10 @@
+{
+  "cases_evaluated": 10,
+  "identity_accuracy_pct": 100.0,
+  "reference_metrics_integrity_pct": 100.0,
+  "variance_mention_rate_pct": 100.0,
+  "unexpected_country_mention_rate_pct": 100.0,
+  "missing_information_accuracy_pct": 100.0,
+  "human_review_compliance_pct": 90.0,
+  "qualitative_assessment": "HUMAN_REVIEW_REQUIRED"
+}

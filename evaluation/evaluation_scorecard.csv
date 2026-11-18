@@ -1,0 +1,11 @@
+case_id,identity_pass,reference_metrics_pass,variance_status,unexpected_country_status,missing_information_pass,human_review_pass,objective_score_pct,qualitative_review_required
+EVAL-001,True,True,NOT_APPLICABLE,NOT_APPLICABLE,True,False,75.0,True
+EVAL-002,True,True,MENTIONED,MENTIONED,True,True,100.0,True
+EVAL-003,True,True,MENTIONED,NOT_APPLICABLE,True,True,100.0,True
+EVAL-004,True,True,NOT_APPLICABLE,MENTIONED,True,True,100.0,True
+EVAL-005,True,True,MENTIONED,MENTIONED,True,True,100.0,True
+EVAL-006,True,True,MENTIONED,NOT_APPLICABLE,True,True,100.0,True
+EVAL-007,True,True,MENTIONED,NOT_APPLICABLE,True,True,100.0,True
+EVAL-008,True,True,NOT_APPLICABLE,NOT_APPLICABLE,True,True,100.0,True
+EVAL-009,True,True,MENTIONED,MENTIONED,True,True,100.0,True
+EVAL-010,True,True,MENTIONED,NOT_APPLICABLE,True,True,100.0,True

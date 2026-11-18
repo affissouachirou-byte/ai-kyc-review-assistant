@@ -1,0 +1,63 @@
+{
+  "EVAL-001": {
+    "expected_variance_pct": 0,
+    "unexpected_countries": [],
+    "documented_missing_information": []
+  },
+  "EVAL-002": {
+    "expected_variance_pct": 150,
+    "unexpected_countries": [
+      "Turkey"
+    ],
+    "documented_missing_information": []
+  },
+  "EVAL-003": {
+    "expected_variance_pct": -50,
+    "unexpected_countries": [],
+    "documented_missing_information": []
+  },
+  "EVAL-004": {
+    "expected_variance_pct": 0,
+    "unexpected_countries": [
+      "Turkey"
+    ],
+    "documented_missing_information": []
+  },
+  "EVAL-005": {
+    "expected_variance_pct": 100,
+    "unexpected_countries": [
+      "Lebanon",
+      "Turkey"
+    ],
+    "documented_missing_information": []
+  },
+  "EVAL-006": {
+    "expected_variance_pct": 50,
+    "unexpected_countries": [],
+    "documented_missing_information": []
+  },
+  "EVAL-007": {
+    "expected_variance_pct": 300,
+    "unexpected_countries": [],
+    "documented_missing_information": []
+  },
+  "EVAL-008": {
+    "expected_variance_pct": 0,
+    "unexpected_countries": [],
+    "documented_missing_information": [
+      "Updated business activity documentation"
+    ]
+  },
+  "EVAL-009": {
+    "expected_variance_pct": 200,
+    "unexpected_countries": [
+      "Turkey"
+    ],
+    "documented_missing_information": []
+  },
+  "EVAL-010": {
+    "expected_variance_pct": -20,
+    "unexpected_countries": [],
+    "documented_missing_information": []
+  }
+}
